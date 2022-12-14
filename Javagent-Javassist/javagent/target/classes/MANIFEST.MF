@@ -1,0 +1,4 @@
+Agent-Class: javagent.JavaAgent
+Premain-Class: javagent.JavaAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
